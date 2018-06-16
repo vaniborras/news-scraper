@@ -1,5 +1,5 @@
 body {
-    background-color: mediumaquamarine;
+    background-color: lightgray;
 }
 
 
@@ -20,11 +20,11 @@ button {
 .wrapper {
     margin: auto;
     width: 80%;
-    background-color: mediumaquamarine;
+    background-color: darkolivegreen;
 }
 
 .article {
-    background-color: sandybrown;
+    background-color: mintcream;
     
 }
 
