@@ -1,0 +1,33 @@
+body {
+    background-color: mediumaquamarine;
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+button {
+    background-color: snow;
+}
+
+.commentHolder {
+    height: 150px;
+    overflow: scroll;
+}
+
+.wrapper {
+    margin: auto;
+    width: 80%;
+    background-color: mediumaquamarine;
+}
+
+.article {
+    background-color: sandybrown;
+    
+}
+
+.center {
+    margin: auto;
+}
